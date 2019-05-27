@@ -1,0 +1,9 @@
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain\bin\Debug\netcoreapp2.1\Switch.Domain.deps.json
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain\bin\Debug\netcoreapp2.1\Switch.Domain.dll
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain\bin\Debug\netcoreapp2.1\Switch.Domain.pdb
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain\obj\Debug\netcoreapp2.1\Switch.Domain.csproj.CoreCompileInputs.cache
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain\obj\Debug\netcoreapp2.1\Switch.Domain.AssemblyInfoInputs.cache
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain\obj\Debug\netcoreapp2.1\Switch.Domain.AssemblyInfo.cs
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain\obj\Debug\netcoreapp2.1\Switch.Domain.dll
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain\obj\Debug\netcoreapp2.1\Switch.Domain.pdb
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain\obj\Debug\netcoreapp2.1\Switch.Domain.csprojAssemblyReference.cache
