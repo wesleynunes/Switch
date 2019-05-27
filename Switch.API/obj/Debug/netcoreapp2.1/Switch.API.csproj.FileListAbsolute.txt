@@ -1,0 +1,14 @@
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.API\bin\Debug\netcoreapp2.1\Switch.API.deps.json
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.API\bin\Debug\netcoreapp2.1\Switch.API.runtimeconfig.json
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.API\bin\Debug\netcoreapp2.1\Switch.API.runtimeconfig.dev.json
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.API\bin\Debug\netcoreapp2.1\Switch.API.dll
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.API\bin\Debug\netcoreapp2.1\Switch.API.pdb
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.API\obj\Debug\netcoreapp2.1\Switch.API.csprojAssemblyReference.cache
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.API\obj\Debug\netcoreapp2.1\Switch.API.csproj.CoreCompileInputs.cache
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.API\obj\Debug\netcoreapp2.1\Switch.API.RazorAssemblyInfo.cache
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.API\obj\Debug\netcoreapp2.1\Switch.API.RazorAssemblyInfo.cs
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.API\obj\Debug\netcoreapp2.1\Switch.API.AssemblyInfoInputs.cache
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.API\obj\Debug\netcoreapp2.1\Switch.API.AssemblyInfo.cs
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.API\obj\Debug\netcoreapp2.1\Switch.API.RazorTargetAssemblyInfo.cache
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.API\obj\Debug\netcoreapp2.1\Switch.API.dll
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.API\obj\Debug\netcoreapp2.1\Switch.API.pdb

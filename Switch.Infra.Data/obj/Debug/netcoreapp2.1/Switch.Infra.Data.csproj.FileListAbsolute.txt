@@ -8,3 +8,4 @@ D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Dat
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.AssemblyInfo.cs
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.dll
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.pdb
+D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.csprojAssemblyReference.cache
