@@ -688,24 +688,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wesle\\.nuget\\packages\\": {},
+    "C:\\Users\\wesley_nunes\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\VisualStudio\\core\\udemy\\Switch\\Switch.Domain.Tests\\Switch.Domain.Tests.csproj",
+      "projectUniqueName": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain.Tests\\Switch.Domain.Tests.csproj",
       "projectName": "Switch.Domain.Tests",
-      "projectPath": "D:\\projects\\VisualStudio\\core\\udemy\\Switch\\Switch.Domain.Tests\\Switch.Domain.Tests.csproj",
-      "packagesPath": "C:\\Users\\wesle\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\VisualStudio\\core\\udemy\\Switch\\Switch.Domain.Tests\\obj\\",
+      "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain.Tests\\Switch.Domain.Tests.csproj",
+      "packagesPath": "C:\\Users\\wesley_nunes\\.nuget\\packages\\",
+      "outputPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "D:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\wesle\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\wesley_nunes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"

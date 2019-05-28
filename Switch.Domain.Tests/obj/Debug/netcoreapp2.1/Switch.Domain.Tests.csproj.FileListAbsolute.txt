@@ -1,3 +1,11 @@
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\bin\Debug\netcoreapp2.1\Switch.Domain.Tests.deps.json
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\bin\Debug\netcoreapp2.1\Switch.Domain.Tests.dll
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\bin\Debug\netcoreapp2.1\Switch.Domain.Tests.pdb
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp2.1\Switch.Domain.Tests.csproj.CoreCompileInputs.cache
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp2.1\Switch.Domain.Tests.AssemblyInfoInputs.cache
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp2.1\Switch.Domain.Tests.AssemblyInfo.cs
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp2.1\Switch.Domain.Tests.dll
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp2.1\Switch.Domain.Tests.pdb
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain.Tests\bin\Debug\netcoreapp2.1\Switch.Domain.Tests.deps.json
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain.Tests\bin\Debug\netcoreapp2.1\Switch.Domain.Tests.dll
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain.Tests\bin\Debug\netcoreapp2.1\Switch.Domain.Tests.pdb
@@ -7,11 +15,3 @@ D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain.Te
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp2.1\Switch.Domain.Tests.dll
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp2.1\Switch.Domain.Tests.pdb
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp2.1\Switch.Domain.Tests.csprojAssemblyReference.cache
-D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\bin\Debug\netcoreapp2.1\Switch.Domain.Tests.deps.json
-D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\bin\Debug\netcoreapp2.1\Switch.Domain.Tests.dll
-D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\bin\Debug\netcoreapp2.1\Switch.Domain.Tests.pdb
-D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp2.1\Switch.Domain.Tests.csproj.CoreCompileInputs.cache
-D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp2.1\Switch.Domain.Tests.AssemblyInfoInputs.cache
-D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp2.1\Switch.Domain.Tests.AssemblyInfo.cs
-D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp2.1\Switch.Domain.Tests.dll
-D:\projects\VisualStudio\core\udemy\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp2.1\Switch.Domain.Tests.pdb
