@@ -1182,6 +1182,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
+      },
+      "Switch.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Switch.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Switch.Domain.dll": {}
+        }
       }
     }
   },
@@ -1278,7 +1288,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore/2.1.4": {
-      "sha512": "Rt2SIF3LPQfBzQYbhOv8LwQKy7UkZh+zJcls5eLTOlbPahLXH7IWCkk3mQpzTvljG55vkhzNcOjzrVLcO0uICA==",
+      "sha512": "72l8hbaJ5cXxZLCFeo46MDnvU8XJiDRNh1YQPzAlqVAlQrUwSVojYbJyOE7vbWqsb8rRqQYJ6NsmgPdUv/NKzw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore/2.1.4",
       "files": [
@@ -1291,7 +1301,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Abstractions/2.1.4": {
-      "sha512": "3djJy9gM2PZQFz6NHPSVzAN8azBu7afehDLwGkCR8yCMVhNzkkVdT/JZMfsSzuNZ302wIFWbzEYSAEI6lBddMA==",
+      "sha512": "5Vc1zdCq7p+E/8ndJnTKHebJeqSC/1gb4hXDPi7UHdqURAxWl3lZV5+79x/dSfO/P6n/sEz5fURYGOMDoreXUA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.abstractions/2.1.4",
       "files": [
@@ -1304,7 +1314,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Analyzers/2.1.4": {
-      "sha512": "VEyuULTq48tbPjwLXo9j5WdObg0ViHYI4CwvdaYG23r13wIP2MJqpn4Nc9HpUQPPxGDqL2FO9HRvSY3Xufgtcw==",
+      "sha512": "cYjXickepORM4UmNdqdZ3l74xhG5OHWMDxsFlqHJGm0qxLAHv5GAI2dKkkGslrjyaPYnfRW3JhAWubBWBt0XUg==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.analyzers/2.1.4",
       "files": [
@@ -1346,7 +1356,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/2.1.4": {
-      "sha512": "Ekl7Kjo5YrPahQ1FJJVSd1ZTnmbtCPdkbI8CMZfbGBQMtrYgBttHxE4bTA4+Ys69+BTRMc/AdWoCfRyioxZA+w==",
+      "sha512": "cn/sEABCjVEp+Ji8LaDjGc7kjD2fJ9y46GL7rTnP1imWmdEYr3eL1oTNKOukMCNwjEGf1pZid0f0LKXaWBGbHw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational/2.1.4",
       "files": [
@@ -2574,7 +2584,7 @@
       ]
     },
     "System.Diagnostics.DiagnosticSource/4.5.1": {
-      "sha512": "zCno/m44ymWhgLFh7tELDG9587q0l/EynPM0m4KgLaWQbz/TEKvNRX2YT5ip2qXW/uayifQ2ZqbnErsKJ4lYrQ==",
+      "sha512": "m86SgxAIi5j0iGzx2y1LrcMcopIYfinfcojyQ9CcNRy3MZvi0dVuDlMj2M7kV6MMGSunqZ+OnQ+rQbxWafFBaw==",
       "type": "package",
       "path": "system.diagnostics.diagnosticsource/4.5.1",
       "files": [
@@ -4524,6 +4534,11 @@
         "system.xml.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xmldocument.nuspec"
       ]
+    },
+    "Switch.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Switch.Domain/Switch.Domain.csproj",
+      "msbuildProject": "../Switch.Domain/Switch.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4531,31 +4546,29 @@
       "Microsoft.EntityFrameworkCore.Proxies >= 2.1.4",
       "Microsoft.EntityFrameworkCore.Tools >= 2.1.4",
       "Microsoft.NETCore.App >= 2.1.0",
-      "Pomelo.EntityFrameworkCore.MySql >= 2.1.4"
+      "Pomelo.EntityFrameworkCore.MySql >= 2.1.4",
+      "Switch.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wesley_nunes\\.nuget\\packages\\": {},
-    "D:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\wesle\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj",
+      "projectUniqueName": "D:\\projects\\VisualStudio\\core\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj",
       "projectName": "Switch.Infra.Data",
-      "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj",
-      "packagesPath": "C:\\Users\\wesley_nunes\\.nuget\\packages\\",
-      "outputPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.Data\\obj\\",
+      "projectPath": "D:\\projects\\VisualStudio\\core\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj",
+      "packagesPath": "C:\\Users\\wesle\\.nuget\\packages\\",
+      "outputPath": "D:\\projects\\VisualStudio\\core\\udemy\\Switch\\Switch.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\wesley_nunes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\wesle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -4566,7 +4579,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\projects\\VisualStudio\\core\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj": {
+              "projectPath": "D:\\projects\\VisualStudio\\core\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

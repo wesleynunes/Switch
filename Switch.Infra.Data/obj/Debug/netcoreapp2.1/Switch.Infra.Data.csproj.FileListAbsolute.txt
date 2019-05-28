@@ -9,3 +9,17 @@ D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Dat
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.dll
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.pdb
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.csprojAssemblyReference.cache
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Infra.Data\bin\Debug\netcoreapp2.1\Switch.Infra.Data.deps.json
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Infra.Data\bin\Debug\netcoreapp2.1\Switch.Infra.Data.runtimeconfig.json
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Infra.Data\bin\Debug\netcoreapp2.1\Switch.Infra.Data.runtimeconfig.dev.json
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Infra.Data\bin\Debug\netcoreapp2.1\Switch.Infra.Data.dll
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Infra.Data\bin\Debug\netcoreapp2.1\Switch.Infra.Data.pdb
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Infra.Data\bin\Debug\netcoreapp2.1\Switch.Domain.dll
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Infra.Data\bin\Debug\netcoreapp2.1\Switch.Domain.pdb
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.csprojAssemblyReference.cache
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.csproj.CoreCompileInputs.cache
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.AssemblyInfoInputs.cache
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.AssemblyInfo.cs
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.csproj.CopyComplete
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.dll
+D:\projects\VisualStudio\core\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.pdb
