@@ -9,8 +9,8 @@ using Switch.Infra.Data.Context;
 namespace Switch.Infra.Data.Migrations
 {
     [DbContext(typeof(SwitchContext))]
-    [Migration("20190528205236_AdicionandoUsuarioConfiguration")]
-    partial class AdicionandoUsuarioConfiguration
+    [Migration("20190703171944_inicio")]
+    partial class inicio
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -18,6 +18,32 @@ namespace Switch.Infra.Data.Migrations
             modelBuilder
                 .HasAnnotation("ProductVersion", "2.1.11-servicing-32099")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
+
+            modelBuilder.Entity("Switch.Domain.Entities.Postagem", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<DateTime>("DataPublicacao");
+
+                    b.Property<string>("Texto");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Postagens");
+                });
+
+            modelBuilder.Entity("Switch.Domain.Entities.StatusRelacionamento", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<string>("Descricao");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("StatusRelacionamento");
+                });
 
             modelBuilder.Entity("Switch.Domain.Entities.Usuario", b =>
                 {

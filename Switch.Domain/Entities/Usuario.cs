@@ -1,5 +1,6 @@
-﻿using Switch.Domain.Entities.Enums;
+﻿using Switch.Domain.Enums;
 using System;
+using System.Collections.Generic;
 
 namespace Switch.Domain.Entities
 {
@@ -19,7 +20,13 @@ namespace Switch.Domain.Entities
 
         public SexoEnum Sexo { get; set; }
 
-        public string UrlFoto { get; set; }        
+        public string UrlFoto { get; set; }
+        
+        //Um para um
+        public virtual Identificacao Identificacao { get; set; }
+
+        //Um para muitos 
+        public virtual ICollection<Postagem> Postagens { get; set; }
 
     }
 }
