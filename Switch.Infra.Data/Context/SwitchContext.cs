@@ -1,9 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Switch.Domain.Entities;
 using Switch.Infra.Data.Config;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Switch.Infra.Data.Context
 {

@@ -1,0 +1,252 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\SwitchAPP\\SwitchAPP.csproj": {}
+  },
+  "projects": {
+    "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj",
+        "projectName": "Switch.Domain",
+        "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj",
+        "packagesPath": "C:\\Users\\wesley_nunes\\.nuget\\packages\\",
+        "outputPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wesley_nunes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.CrossCutting.Logging\\Switch.Infra.CrossCutting.Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.CrossCutting.Logging\\Switch.Infra.CrossCutting.Logging.csproj",
+        "projectName": "Switch.Infra.CrossCutting.Logging",
+        "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.CrossCutting.Logging\\Switch.Infra.CrossCutting.Logging.csproj",
+        "packagesPath": "C:\\Users\\wesley_nunes\\.nuget\\packages\\",
+        "outputPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.CrossCutting.Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wesley_nunes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj",
+        "projectName": "Switch.Infra.Data",
+        "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\wesley_nunes\\.nuget\\packages\\",
+        "outputPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wesley_nunes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj": {
+                "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\SwitchAPP\\SwitchAPP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\SwitchAPP\\SwitchAPP.csproj",
+        "projectName": "SwitchAPP",
+        "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\SwitchAPP\\SwitchAPP.csproj",
+        "packagesPath": "C:\\Users\\wesley_nunes\\.nuget\\packages\\",
+        "outputPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\SwitchAPP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wesley_nunes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj": {
+                "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj"
+              },
+              "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.CrossCutting.Logging\\Switch.Infra.CrossCutting.Logging.csproj": {
+                "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.CrossCutting.Logging\\Switch.Infra.CrossCutting.Logging.csproj"
+              },
+              "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj": {
+                "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

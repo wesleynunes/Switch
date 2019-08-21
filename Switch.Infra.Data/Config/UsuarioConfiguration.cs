@@ -25,6 +25,7 @@ namespace Switch.Infra.Data.Config
             builder.HasMany(u => u.UsuarioGrupos).WithOne(p => p.Usuario);
             builder.HasOne(u => u.StatusRelacionamento);
             builder.HasOne(u => u.ProcurandoPor);
+            
         }
     }
 }
