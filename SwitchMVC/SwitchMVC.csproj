@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\uploads\images\0.jpg" />
+    <Content Remove="wwwroot\uploads\images\0.png" />
+    <Content Remove="wwwroot\uploads\images\0b313b13f9ea4564bb1758983366d9b5.jpg" />
+    <Content Remove="wwwroot\uploads\images\143da50af7d44523b6d6a0eac36d3ccb.jpg" />
+    <Content Remove="wwwroot\uploads\images\2beb0903892f4ce0a5c6f3b148283ac0.jpg" />
+    <Content Remove="wwwroot\uploads\images\3a406f3db60e46fb8a9a2cc17257b34b.jpg" />
+    <Content Remove="wwwroot\uploads\images\51c6a6debdc34f4db93644f431b84125.jpg" />
+    <Content Remove="wwwroot\uploads\images\54d17d95353848c493d8f486de3e4410.jpg" />
+    <Content Remove="wwwroot\uploads\images\57450863f03844ecb61764b3a5bfded5.jpg" />
+    <Content Remove="wwwroot\uploads\images\954fa31247e74c63bd8bba399e61f4ac.jpg" />
+    <Content Remove="wwwroot\uploads\images\9a3358877db949d1968c498fb9338d5b.jpg" />
+    <Content Remove="wwwroot\uploads\images\ad6585455b6648f5acfa08465f70241e.jpg" />
+    <Content Remove="wwwroot\uploads\images\b435003cfaed45cb90e7b8316f531961.jpg" />
+    <Content Remove="wwwroot\uploads\images\d12dce0ac2d9480c850ca89937d9ad89.jpg" />
+    <Content Remove="wwwroot\uploads\images\d2bd267db1b54c109e30eabf27c1b258.png" />
+    <Content Remove="wwwroot\uploads\images\d6b73e4081b14f219adfa64a6d29d615.jpg" />
+    <Content Remove="wwwroot\uploads\images\f1b41497d3e14cac9d1a3474d04aa531.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Switch.Domain\Switch.Domain.csproj" />
+    <ProjectReference Include="..\Switch.Infra.Data\Switch.Infra.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\uploads\images\" />
+  </ItemGroup>
+
+</Project>

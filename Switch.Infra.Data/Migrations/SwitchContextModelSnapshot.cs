@@ -230,9 +230,10 @@ namespace Switch.Infra.Data.Migrations
 
                     b.Property<int?>("StatusRelacionamentoId");
 
+                    b.Property<int>("TipoUsuarios");
+
                     b.Property<string>("UrlFoto")
-                        .IsRequired()
-                        .HasMaxLength(400);
+                        .HasMaxLength(1000);
 
                     b.HasKey("Id");
 

@@ -1,0 +1,75 @@
+﻿@model Switch.Domain.Entities.Usuario
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Usuario</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Sobrenome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Sobrenome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Senha)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Senha)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DataNascimento)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DataNascimento)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Sexo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Sexo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoUsuarios)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TipoUsuarios)
+        </dd>
+        <dt>
+            @Html.LabelForModel("Endereço da foto")
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.UrlFoto)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.UrlFoto)
+        </dt>
+        <dd>
+            @if (!String.IsNullOrEmpty(Model.UrlFoto))
+            {
+                <img src="~/@Model.UrlFoto" alt="Image" style="width:670px;height:300px; max-width: 100%" class="img-thumbnail" />
+            }
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a> |
+    <a asp-action="Index"class="btn btn-primary">Back to List</a>
+</div>
