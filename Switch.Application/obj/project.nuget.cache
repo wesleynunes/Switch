@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jd+B3536rdENIHA9MdXJZA38gHWeGNQqdJ4Q+AkgQ+rlJUVnzJ932SFFMDCYZNq3sbePOCkBbaCm9F7DWdO40w==",
+  "success": true,
+  "projectFilePath": "D:\\arquivos\\Documentos\\visual_studio\\Core\\aulas\\udemy\\Switch\\Switch.Application\\Switch.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley_nunes\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\wesley_nunes\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\wesley_nunes\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\wesley_nunes\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\wesley_nunes\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\wesley_nunes\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\wesley_nunes\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

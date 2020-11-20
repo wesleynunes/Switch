@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj": {}
+    "D:\\arquivos\\Documentos\\visual_studio\\Core\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj": {}
   },
   "projects": {
-    "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj": {
+    "D:\\arquivos\\Documentos\\visual_studio\\Core\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj",
+        "projectUniqueName": "D:\\arquivos\\Documentos\\visual_studio\\Core\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj",
         "projectName": "Switch.Domain",
-        "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj",
+        "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\Core\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj",
         "packagesPath": "C:\\Users\\wesley_nunes\\.nuget\\packages\\",
-        "outputPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain\\obj\\",
+        "outputPath": "D:\\arquivos\\Documentos\\visual_studio\\Core\\aulas\\udemy\\Switch\\Switch.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\wesley_nunes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -31,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -51,30 +48,31 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj": {
+    "D:\\arquivos\\Documentos\\visual_studio\\Core\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj",
+        "projectUniqueName": "D:\\arquivos\\Documentos\\visual_studio\\Core\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj",
         "projectName": "Switch.Infra.Data",
-        "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj",
+        "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\Core\\aulas\\udemy\\Switch\\Switch.Infra.Data\\Switch.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\wesley_nunes\\.nuget\\packages\\",
-        "outputPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Infra.Data\\obj\\",
+        "outputPath": "D:\\arquivos\\Documentos\\visual_studio\\Core\\aulas\\udemy\\Switch\\Switch.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\wesley_nunes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -85,9 +83,10 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj": {
-                "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\project\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj"
+              "D:\\arquivos\\Documentos\\visual_studio\\Core\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj": {
+                "projectPath": "D:\\arquivos\\Documentos\\visual_studio\\Core\\aulas\\udemy\\Switch\\Switch.Domain\\Switch.Domain.csproj"
               }
             }
           }
@@ -100,6 +99,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",
@@ -123,10 +123,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

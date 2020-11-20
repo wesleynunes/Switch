@@ -20,7 +20,6 @@ D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Dat
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Data\bin\Debug\netcoreapp2.1\Switch.Domain.dll
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Data\bin\Debug\netcoreapp2.1\Switch.Domain.pdb
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.csprojAssemblyReference.cache
-D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.csproj.CoreCompileInputs.cache
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.AssemblyInfoInputs.cache
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.AssemblyInfo.cs
 D:\arquivos\Documentos\visual_studio\project\aulas\udemy\Switch\Switch.Infra.Data\obj\Debug\netcoreapp2.1\Switch.Infra.Data.csproj.CopyComplete
